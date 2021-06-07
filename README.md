@@ -1,4 +1,4 @@
-BANKING SYSTEM
+BANK
 stack used - 
 Front-end : HTML, CSS, Bootstrap & Javascript 
 Back-end : PHP 
